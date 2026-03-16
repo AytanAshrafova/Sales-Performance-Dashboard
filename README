@@ -1,1 +1,39 @@
+------------------------------------------
+Sales Performance Dashboard – Power BI
+----------------------------------------
 
+
+Bu layihə Power BI istifadə edilərək hazırlanmış Sales Performance Dashboard-u təqdim edir. Dashboard satış məlumatlarını analiz etməyə və biznes performansını daha yaxşı başa düşməyə kömək edir.
+
+Bu dashboard satış trendlərini, müştəri performansını və məhsul üzrə mənfəəti analiz edərək data əsaslı qərarların verilməsini dəstəkləyir.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+Əsas Xüsusiyyətlər
+---------------------------
+
+İnteraktiv filtrlər (Year, Quarter, Product Sub-Category, Order Priority)
+
+Aylıq sifarişlərin analizi
+
+Segment və kateqoriya üzrə satışlar
+
+Aylıq satış trendinin vizuallaşdırılması
+
+Satışa görə Top 10 müştəri
+
+Mənfəətə görə Top 10 müştəri
+
+Mənfəətə görə Top 10 məhsul
+
+----------------------------------------
+
+Təqdim olunan Analizlər
+----------------------------
+
+Ən gəlirli müştəriləri və məhsulları müəyyən etmək
+
+Aylara görə satış trendlərini analiz etmək
+
+Müştəri seqmentləri üzrə performansı müqayisə etmək
+
+Sifariş sayının zaman üzrə dəyişimini izləmək
